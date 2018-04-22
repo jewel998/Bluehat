@@ -15,3 +15,6 @@ To prevent it from happening use
 ```shell
 ulimit
 ```
+Added a recent password text files for Bandit, OverTheWire.org
+For help, contact me at <a href="http://facebook.com/jewel.barman">Facebook@Jewel</a>.
+>::Click <a href="../master/Bandit%20OverTheWire.txt">Here</a> for the file::
